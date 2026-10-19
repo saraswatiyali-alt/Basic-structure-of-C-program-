@@ -1,6 +1,6 @@
 # Basic-structure-of-C-program-
 The basic structure of a C program consists of different sections that help us write, compile, and execute a program in an organized way.
-1. Structure of a C Program
+*** Structure of a C Program**
    
 #include <stdio.h>       // Documentation/Link section
 
@@ -12,7 +12,8 @@ int main()               // Main function
 }
 
 
-2. Different Sections of a C Program
+
+*** Different Sections of a C Program**
 1. Documentation Section
 - Contains comments that describe the program.
 - Comments help programmers understand the code.
